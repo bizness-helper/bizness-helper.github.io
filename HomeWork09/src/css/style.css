@@ -1,0 +1,44 @@
+body{
+	font-size: 10px;
+	font-family: Tahoma, sans-serif;
+}
+.main-header{
+	text-align: center;
+	font-size: 2.4rem;
+	line-height: 1.5;
+	margin: 80px auto;
+}
+.main-header strong{
+	text-transform: uppercase;
+}
+.main-form{
+	display: inline-block;
+	border: 5px solid #2727d9;
+}
+input{
+	display: block;
+	width: 300px;
+	padding: 17px;
+	margin: 10px;
+	font-size: 18px;
+}
+.form-btn{
+	display: block;
+	width: 300px;
+	padding: 17px;
+	margin: 10px;
+	font-size: 18px;
+	margin-bottom: 20px;
+	color: #fff;
+	background-color: #2727d9;
+}
+p{
+	font-size: 16px;
+}
+.feature{
+	text-align: center;
+}
+.feature > .form-btn{
+	display: inline-block;
+	text-align: center;
+}

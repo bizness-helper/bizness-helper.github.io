@@ -1,0 +1,12 @@
+body{
+	background-color: green;
+}
+h1, h2, h3, h4, h5{
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 800;
+	border: 3px solid blue;
+}
+p{
+	border: 2px solid red;
+}
